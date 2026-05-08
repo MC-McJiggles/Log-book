@@ -1,0 +1,1 @@
+“WorkLog is a mobile-friendly time and mileage tracker built for truckers, longshoremen, and dock workers. Log daily clock-in/out times, lunch breaks, overtime, loads, and miles — with a built-in GPS trip tracker that automatically calculates miles driven. Export to CSV or print for payroll.
